@@ -1,0 +1,517 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body
+{
+    background-image:linear-gradient(to right, rgb(68, 65, 65) , rgb(0, 255, 183));
+}
+
+
+.container-fluid{
+    /* border: 1px solid black; */
+    /* border-radius: 10px; */
+    /* background-image:linear-gradient(to right, rgb(68, 65, 65) , rgb(0, 255, 183)); */
+    color: white;
+}
+.nav-item{
+    color: white;
+}
+.biju
+{
+    width: 35rem;
+    height: 30rem;
+    /* margin-left: 55rem; */
+    background:linear-gradient(rgba(153, 6, 31, 0.33));
+    border-radius: 50%;
+    /* margin-top:2rem; */
+
+}
+h1{
+    /* margin-top: 10rem; */
+    color: white;
+    /* margin-left: 10rem; */
+}
+.container-fluid-dg{
+    display: flex;
+    margin-left: 10rem;
+    gap: 13rem;
+    /* margin-bottom: 5rem; */
+}
+.jiju{
+    width: 30rem;
+    height: 1 6rem;
+    border-radius: 50%;
+}
+.container-fluid-bg{
+    display: flex;
+    background-color: lightcoral;
+}
+.container-fluid mn{
+    display: flex;
+
+}
+/* #mom:hover{
+     color: blue;
+
+} */
+#kon{
+    margin-left: -12rem;
+    font-size: 5rem;
+    text-transform: capitalize;
+}
+#kon:hover{
+    color: goldenrod;
+}
+#Bmk{
+    margin-bottom: 10rem;
+}
+#china{
+    margin-top: 25rem;
+    /* margin-right: 21rem; */
+}
+
+.firstcol
+{
+    margin-top: 5rem;
+    text-align: center;
+}
+.firstcol h1{
+    margin-top: 3rem;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+.firstcol p{
+    margin-top: 0.2rem;
+    width: 14rem;
+    margin-left: 15rem;
+    text-transform: capitalize;
+    text-align: justify;
+    column-gap: normal;
+    font-size: 17px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.firstcol h3{
+    color:white;
+    font-size: 4rem;
+    text-transform: capitalize;
+}
+.firstcol  span i
+{
+    font-size: 2.2rem;
+   margin-left: -17rem;
+   margin-top: 0.5rem;
+    color: brown;
+}
+
+.sp{
+    color: aquamarine;
+
+}
+#second
+{
+
+width: 65%;
+height: 23rem;
+margin-left: 4rem;
+border-radius: 1rem;
+
+}
+#change{
+    margin-top: 5rem;
+    color:white;
+    margin-left: -14rem;
+    font-size: 1.4rem;
+    text-align: justify;
+    column-gap: normal;
+   
+   
+
+}
+#change:hover{
+    color:orangered;
+}
+#me{
+    border-radius: 15px;
+    width:9rem;
+    height: 2.5rem;
+    /* background-color:rgba(0, 19, 128, 0.296) ; */
+    background-color:orangered;
+    color: white;
+    text-transform: uppercase;
+    margin-left: -14rem;
+    border: none;
+}
+
+#kick{
+    margin-bottom: 22rem;
+}
+
+
+.green{
+    /* color: white; */
+    text-transform: capitalize;
+}
+
+
+#kid
+{
+    /* margin-left: 6rem; */
+    color: darkorange;
+    height: 90px;
+    background-color: rgba(200, 200, 229, 0.271);
+    width: 100%;
+    
+
+}
+i{
+   font-size: 1.8rem;
+   margin-top: -3.3rem;
+   
+}
+.yellow{
+    display: flex;
+    /* margin-left: 70rem; */
+    column-gap: 25px;
+    float:right;
+}
+p{
+    margin: 2rem  3rem;
+    
+    
+}
+.tiger h1
+{
+    text-align: center;
+}
+.tiger p
+{
+    text-align: justify;
+}
+.name
+{
+font-size: 40px;
+text-transform: uppercase;
+text-decoration: none;
+
+/* //it is the first name // */
+}
+.contact_icon  i 
+{
+color: brown;
+margin-top: 6px;
+margin-left: -2.5rem;
+}
+.contact_icon h1
+{
+font-size: 1.6rem;
+color: rgb(126, 67, 67);
+}
+#navbarText ul 
+{
+margin-left: 14rem;
+
+}
+#navbarText ul  li a
+{
+font-size: 1.3rem;
+text-transform: uppercase;
+color: rgb(245, 222, 191);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+}
+#about_me {
+color: rgb(100, 9, 9);
+text-transform: uppercase;
+font-size: 2.4rem;
+justify-content: center;
+margin-bottom: 2rem;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
+.popup
+{
+background-image: url("https://blog.openclassrooms.com/en/wp-content/uploads/sites/4/2018/03/web-develoment.jpg");
+padding: 3rem;
+}
+.popup_box
+{
+width: 45rem;
+height: 46rem;
+background-color: rgb(224, 215, 231);
+margin-left: 25rem;
+
+}
+.popup_box h1
+{
+color: brown;
+text-align: center;
+text-transform: uppercase;
+font-size: 2rem;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.apple
+{
+font-size: 1.4rem;
+color: rgb(21, 21, 21);
+text-transform: capitalize;
+}
+.mango
+{
+margin-left: 4rem;
+}
+.mango button
+{
+/* border: 5px solid black; */
+padding: 1rem;
+margin-left: 13rem;
+/* margin-top: 15rem; */
+background-color: deepskyblue;
+text-align: center;
+border: none;
+border-radius: 5rem;
+
+}
+
+.mango button:hover{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#solid
+{display: flex;
+gap: 3rem;
+margin-left: 3rem;
+color: black;
+
+}
+.fix h2
+{
+margin-left: 3rem;
+font-size: 1.4rem;
+color: black;
+text-transform: capitalize;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-top: 2.5rem;
+
+}
+.fix_p p{
+font-size: 1.1rem;
+color: black;
+}
+#follow
+{text-align: center;
+    list-style: none;
+    /* margin-top: 2rem; */
+
+
+}
+#contact
+{
+    text-align: center;
+    list-style: none;
+}
+.fa :hover
+{color: cyan;
+
+}
+#media{
+    /* color: blueviolet; */
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: darkkhaki; */
+}
+#abc
+{
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: darkkhaki; */
+
+}
+#abc:hover
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+#media:hover
+{font-family: 'Times New Roman', Times, serif;
+    /* background-color: red; */
+
+}
+.progress-bar{
+    margin-top: 3rem;
+    background-color: blue;
+}
+.insta i
+{
+    font-size: 1.7rem;
+    column-gap: 10px;
+    margin-top: 1rem;
+    padding-left: 1.5rem;
+       
+}
+
+#imga
+{ 
+       width: 400px;
+          height: 150px;
+        margin-top: 6rem;
+
+}
+#page
+{
+    width: 55%;
+    height: 450px;
+    padding: 6rem;
+    border: none;
+    
+    background-image: conic-gradient(red, yellow, green, blue, black);
+    text-align: center;
+    text-justify: center;
+    text-transform: capitalize;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.tiger
+{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    text-transform: capitalize;
+}
+#data
+{
+    margin-right: 35rem;
+
+}
+#deatails
+{
+    font-size: 2rem;
+    color: black;
+    
+}
+#deatails h1{
+    text-align: center;
+}
+.mit
+{
+    /* background-color: indianred;
+    border: 3px solid black;
+    /* margin-bottom: 20px;
+    padding: 0.3rem; */
+    /* height: 10px;
+    border: none;
+    margin: 5rem 6rem 7rem 8rem; */ */
+
+    
+}
+h1
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#page
+{text-align: center;
+    margin-left: 10rem;
+    border-radius: 20px;
+    /* background-image: linear-gradient(red, yellow ,pink); ; */
+
+}
+.progress
+{
+    color: dodgerblue;
+}
+.insta:hover
+{
+transition: all 0.5s linear;
+}
+.insta:hover i
+{
+    /* transform: scale(1.4); */
+}
+.fa-instagram
+{
+    color: blue;
+      transform: scale(1.4);
+}
+.fa-facebook
+{
+    color: blueviolet;
+    transform: scale(1.4);
+   
+}
+.fa-twitter
+{color: chartreuse;
+    transform: scale(1.4);
+    
+
+}
+.fa-whatsapp
+{
+    color: gold;
+    transform: scale(1.4);
+}
+#lastt_submit
+{
+
+    margin-left: 6rem;
+    border: 3px solid black;
+    width: 8rem;
+    height: 2rem;
+    border-radius: 19px;
+    background-color: coral;
+    color: white;
+    border: none;
+    text-transform: capitalize;
+}
+#lastt_submit:hover
+{
+    color: red;
+}
+.tiger
+{
+    margin-top: 3rem;
+}
+.CAND_IMG
+{
+    margin-bottom: 2rem;
+}
+.erce
+{
+    margin-left: 13rem;
+    border: 2px solid blueviolet;
+    width:19rem ;
+    height: 3rem;
+    text-align: center;
+    background-color: darkorchid;
+    font-family: 'Times New Roman', Times, serif;
+}
+.text-center
+{
+    margin-left: 15rem;
+    border: 3px solid black;
+    border: none;
+    width: 20rem;
+    height: 3rem;
+    background-color: darkgray;
+    font-family: 'Times New Roman', Times, serif;
+}
+.third_img
+{margin-left: 16rem;
+    border: 3px solid orange;
+    width:19rem ;
+    height: 3rem;
+    text-align: center;
+    background-color: lawngreen;
+    border: none;
+
+}
+.four_img
+{margin-left: 16rem;
+    border: 3px solid rgb(238, 220, 187);
+    width:19rem ;
+    height: 3rem;
+    text-align: center;
+    background-color: rgb(131, 187, 76);
+    border: none;
+
+}
+
+
